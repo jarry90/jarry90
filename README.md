@@ -25,9 +25,9 @@ Add value to some open source projects.
 
 ## ⚡ Projects
 - [Image Compressor](https://github.com/jarry90/Image-Compressor) - A simple app that takes the filepath of an image from the command line and outputs a compressed version at the same file location. 
-- [Email Sender](https://github.com/jarry90/Projects-Python-Developer-Zero-to-Mastery)
-- [Password Security Checker](https://github.com/jarry90/Projects-Python-Developer-Zero-to-Mastery)
-- [Hackernews Scraper](https://github.com/jarry90/Projects-Python-Developer-Zero-to-Mastery)
+- [Email Sender](https://github.com/jarry90/Projects-Python-Developer-Zero-to-Mastery) - Completed as part of the Python Zero to Mastery Course. A simple program that sends an email from your gmail account. 
+- [Password Security Checker](https://github.com/jarry90/Projects-Python-Developer-Zero-to-Mastery) - Completed as part of the Python Zero to Mastery Course. An app that checks if a password has been hacked using the haveibeenpwned.com API. 
+- [Hackernews Scraper](https://github.com/jarry90/Projects-Python-Developer-Zero-to-Mastery) - Completed as part of the Python Zero to Mastery Course. An app that uses requests and beautiful soup 4 to scrape hacker news and output a list of the top posts.
 - [Robocorp - RPA Certification Level I](https://github.com/jarry90/RoboCorp-RPA-certification-level-I-Beginners-course) - Completed project for Robocorp - RPA certification level I.
 - [Robocorp - RPA Certification Level II](https://github.com/jarry90/RoboCorp-RPA-certification-level-II-Build-a-robot) - Completed project for Robocorp - RPA certification level II.
 - [RPA Challenge](https://github.com/jarry90/RPA-Challenge-Robocorp) - A robot that successfully completes the RPAchallenge.com challenge using the Robocorp framework. 

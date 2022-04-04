@@ -6,6 +6,7 @@ I completed programming courses at university and have always been interested in
 I am passionate about writing code and am excited to continue learning while working. 
 
 ## 📫 How to reach me:
+- [Email](mailto:jared.cavalli@gmail.com)
 - [Twitter](https://twitter.com/Jared_Cavalli)
 - [Linkedin](https://www.quora.com/profile/Jared-Cavalli)
 - [Quora](https://www.quora.com/profile/Jared-Cavalli)

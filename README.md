@@ -5,16 +5,26 @@ I completed programming courses at university and have always been interested in
 
 I am passionate about writing code and am excited to continue learning while working. 
 
+## 📫 How to reach me:
+[Twitter](https://twitter.com/Jared_Cavalli)
+[Linkedin](https://www.quora.com/profile/Jared-Cavalli)
+[Quora](https://www.quora.com/profile/Jared-Cavalli)
+
 ## 🔭 I’m currently working on
 [Advanced Job Search](https://github.com/jarry90/Adv-job-search) - An app that that takes advanced search metrics and scrapes Seek, indeed and Linkedin jobs for suitable matched, then emails you a formatted list. The project is a work in progress and can currently take defined variables for search terms and location, then return a list from seek. Will work on adding user input for search terms and location, functionality for indeed and Linkedin, and email subscription. 
 
-## 🐱‍👓 I’m currently learning ...
+Object-oriented programming python project. Currently looking for ideas. 
+
+## 👓 I’m currently learning
+- Java
+- C Programming
+- Django
+
+## 👯 I’m looking to
+Add value to some open source projects. 
+
+## ⚡ Projects
 
 
-## 👯 I’m looking to collaborate on ...
+## 🐱 Blogs
 
-
-## 📫 How to reach me: ...
-
-
-## ⚡ Fun fact: ...

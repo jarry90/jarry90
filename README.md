@@ -6,9 +6,9 @@ I completed programming courses at university and have always been interested in
 I am passionate about writing code and am excited to continue learning while working. 
 
 ## 📫 How to reach me:
-[Twitter](https://twitter.com/Jared_Cavalli)
-[Linkedin](https://www.quora.com/profile/Jared-Cavalli)
-[Quora](https://www.quora.com/profile/Jared-Cavalli)
+- [Twitter](https://twitter.com/Jared_Cavalli)
+- [Linkedin](https://www.quora.com/profile/Jared-Cavalli)
+- [Quora](https://www.quora.com/profile/Jared-Cavalli)
 
 ## 🔭 I’m currently working on
 [Advanced Job Search](https://github.com/jarry90/Adv-job-search) - An app that that takes advanced search metrics and scrapes Seek, indeed and Linkedin jobs for suitable matched, then emails you a formatted list. The project is a work in progress and can currently take defined variables for search terms and location, then return a list from seek. Will work on adding user input for search terms and location, functionality for indeed and Linkedin, and email subscription. 
@@ -24,7 +24,13 @@ Object-oriented programming python project. Currently looking for ideas.
 Add value to some open source projects. 
 
 ## ⚡ Projects
-
+- [Image Compressor](https://github.com/jarry90/Image-Compressor) - A simple app that takes the filepath of an image from the command line and outputs a compressed version at the same file location. 
+- [Email Sender](https://github.com/jarry90/Projects-Python-Developer-Zero-to-Mastery)
+- [Password Security Checker](https://github.com/jarry90/Projects-Python-Developer-Zero-to-Mastery)
+- [Hackernews Scraper](https://github.com/jarry90/Projects-Python-Developer-Zero-to-Mastery)
+- [Robocorp - RPA Certification Level I](https://github.com/jarry90/RoboCorp-RPA-certification-level-I-Beginners-course) - Completed project for Robocorp - RPA certification level I.
+- [Robocorp - RPA Certification Level II](https://github.com/jarry90/RoboCorp-RPA-certification-level-II-Build-a-robot) - Completed project for Robocorp - RPA certification level II.
+- [RPA Challenge](https://github.com/jarry90/RPA-Challenge-Robocorp) - A robot that successfully completes the RPAchallenge.com challenge using the Robocorp framework. 
 
 ## 🐱 Blogs
 

@@ -11,7 +11,7 @@ I am passionate about writing code and am excited to continue learning while wor
 - [Linkedin](https://www.quora.com/profile/Jared-Cavalli)
 - [Quora](https://www.quora.com/profile/Jared-Cavalli)
 
-## 🦖 My Skills
+## 🦖 Skills
 Python, bs4, requests, numpy, pandas, selenium, django*, C*, JAVA*, RPA-Robocorp, APIs, Git & GitHub, HTML, CSS, AWS*, Azure*, Project Management, Customer Service, Critical Thinking, SQL Queries, Adv Mathematics, Probability, Statistics.
 
 **fundamental understanding*

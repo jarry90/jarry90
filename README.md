@@ -21,6 +21,13 @@ Python, bs4, requests, numpy, pandas, selenium, django*, C*, JAVA*, RPA-Robocorp
 
 Object-oriented programming python project. Currently looking for ideas. 
 
+## Education and training
+- Bachelor of Engineering - University of Queensland, 2014
+- Project Management Fundamentals (PM2) - Brisbane City Council, 2021
+- Python Developer: Zero to Mastery - Zero To Mastery Academy, 2022
+- Robocorp Level I certification - Robocorp, 2022
+- Robocorp Level I certification - Robocorp, 2022
+
 ## 👓 I’m currently learning
 - Java
 - C Programming

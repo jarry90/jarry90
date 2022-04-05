@@ -11,6 +11,11 @@ I am passionate about writing code and am excited to continue learning while wor
 - [Linkedin](https://www.quora.com/profile/Jared-Cavalli)
 - [Quora](https://www.quora.com/profile/Jared-Cavalli)
 
+## 🦖 My Skills
+Python, bs4, requests, numpy, pandas, selenium, django, C*, JAVA*, RPA-Robocorp, APIs, Git & GitHub, HTML, CSS, AWS*, Azure*, Project Management, Customer Service, Critical Thinking, SQL Queries, Adv Mathematics, Probability, Statistics.
+
+**fundamental understanding*
+
 ## 🔭 I’m currently working on
 [Advanced Job Search](https://github.com/jarry90/Adv-job-search) - An app that that takes advanced search metrics and scrapes Seek, indeed and Linkedin jobs for suitable matched, then emails you a formatted list. The project is a work in progress and can currently take defined variables for search terms and location, then return a list from seek. Will work on adding user input for search terms and location, functionality for indeed and Linkedin, and email subscription. 
 

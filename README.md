@@ -10,6 +10,7 @@ I am passionate about writing code and am excited to continue learning while wor
 - [Twitter](https://twitter.com/Jared_Cavalli)
 - [Linkedin](https://www.quora.com/profile/Jared-Cavalli)
 - [Quora](https://www.quora.com/profile/Jared-Cavalli)
+- [Codewars](https://www.codewars.com/users/jarry90)
 
 ## 🦖 Skills
 Python, bs4, requests, numpy, pandas, selenium, django*, C*, JAVA*, RPA-Robocorp, APIs, Git & GitHub, HTML, CSS, AWS*, Azure*, Project Management, Customer Service, Critical Thinking, SQL Queries, Adv Mathematics, Probability, Statistics.
@@ -47,3 +48,4 @@ Add value to some open source projects.
 
 ## 🐱 Blogs
 
+![Coming soon](https://media1.giphy.com/media/1ken0zzzL79NPy3QZj/giphy-downsized-large.gif)

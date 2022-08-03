@@ -20,12 +20,12 @@ Improving my skills as a programmer. Focussing on taking courses and learning ne
 I am also working on my personal website at [jarry.dev](jarry.dev)
 
 ## Education and training
-### University ###
+#### University ####
 - Graduate Certificate in Information Technology, 2023 (expected)
 - CS50’s Web Programming with Python and JavaScript, 2022 (expected)
 - Bachelor of Engineering - University of Queensland, 2014
 
-### Other ###
+#### Other ####
 - Python Developer: Zero to Mastery - Zero To Mastery Academy, 2022
 - Robocorp Level I certification - Robocorp, 2022
 - Robocorp Level I certification - Robocorp, 2022
@@ -44,16 +44,16 @@ I am also working on my personal website at [jarry.dev](jarry.dev)
 Add value to some open source projects. 
 
 ## ⚡ Projects
-### Python ###
+#### Python ####
 - [Image Compressor](https://github.com/jarry90/Image-Compressor) - A simple app that takes the filepath of an image from the command line and outputs a compressed version at the same file location. 
 - [Email Sender](https://github.com/jarry90/Projects-Python-Developer-Zero-to-Mastery) - Completed as part of the Python Zero to Mastery Course. A simple program that sends an email from your gmail account. 
 - [Password Security Checker](https://github.com/jarry90/Projects-Python-Developer-Zero-to-Mastery) - Completed as part of the Python Zero to Mastery Course. An app that checks if a password has been hacked using the haveibeenpwned.com API. 
 - [Hackernews Scraper](https://github.com/jarry90/Projects-Python-Developer-Zero-to-Mastery) - Completed as part of the Python Zero to Mastery Course. An app that uses requests and beautiful soup 4 to scrape hacker news and output a list of the top posts.
 
-### JavaScript ###
+#### JavaScript ####
 - [JavaScript Flight Widget](https://github.com/jarry90/JavaScript-Flight-Widget)
 
-### Robocorp ###
+#### Robocorp ####
 - [Robocorp - RPA Certification Level I](https://github.com/jarry90/RoboCorp-RPA-certification-level-I-Beginners-course) - Completed project for Robocorp - RPA certification level I.
 - [Robocorp - RPA Certification Level II](https://github.com/jarry90/RoboCorp-RPA-certification-level-II-Build-a-robot) - Completed project for Robocorp - RPA certification level II.
 - [RPA Challenge](https://github.com/jarry90/RPA-Challenge-Robocorp) - A robot that successfully completes the RPAchallenge.com challenge using the Robocorp framework. 

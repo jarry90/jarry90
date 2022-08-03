@@ -35,7 +35,7 @@ I am also working on my personal website at [jarry.dev](jarry.dev)
 - CS50’s Web Programming with Python and JavaScript
 - Graduate Certificate in Information Technology
 
-### Next up ###
+#### Next up ####
 - Python Django - Complete Course
 - Django with React | An Ecommerce Website
 - React JS Notes App & Crash Course

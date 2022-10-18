@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**`SOFTWARE DEVELOPER`**
+**`🦖 SOFTWARE DEVELOPER`**
 
 I am a software developer with a Bachelor of Engineering and extensive experience working as a civil engineer. I have recently committed to a career change into software engineering where I believe my strong skills in project management, mathematics, statistics and problem solving will be directly transferable. 
 
@@ -14,32 +14,28 @@ I am passionate about writing code and am interested in moving into a full time 
 
 <img align="left" width="80px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" width="80px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+<img align="left" width="80px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 <img align="left" width="80px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" width="80px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" width="80px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" width="80px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img width="80px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
 
-#### 🦖 Working on
-Python, bs4, requests, selenium, django, RPA-Robocorp, APIs, Git & GitHub, HTML, CSS, AWS, Azure, Project Management, Customer Service, Critical Thinking, SQL Queries, Adv Mathematics, Probability, Statistics.
+Working on;
+</br>MongoDB, Express, React, Node.js, RPA-Robocorp, AWS, Azure.
 
 
 ## 📫 How to reach me:
-- [Email](mailto:jared.cavalli@gmail.com)
-- [Twitter](https://twitter.com/Jared_Cavalli)
-- [Linkedin](https://www.quora.com/profile/Jared-Cavalli)
-- [Codewars](https://www.codewars.com/users/jarry90)
+[Email](mailto:jared.cavalli@gmail.com) ⢷ [Twitter](https://twitter.com/Jared_Cavalli) ⢷ [Linkedin](https://www.quora.com/profile/Jared-Cavalli) ⢷ [Codewars](https://www.codewars.com/users/jarry90)
 
 
 ## 🔭 I’m currently working on
-Improving my skills as a programmer. Focussing on taking courses and learning new things.
-
-I am also working on my personal website at [jarry.dev](jarry.dev)
+[Personal website](jarry.dev) ⢷ YouTube Channel ⢷ Yoga Video Webapp
 
 ## Education and training
 #### University ####
-- Graduate Certificate in Information Technology, 2023 (expected)
-- CS50’s Web Programming with Python and JavaScript, 2022 (expected)
+- Graduate Certificate in Information Technology - University on Newcastle, 2023 (expected)
+- CS50’s Web Programming with Python and JavaScript - Harvard OpenCourseWare, 2022 (expected)
 - Bachelor of Engineering - University of Queensland, 2014
 
 #### Other ####

@@ -1,9 +1,12 @@
 ### Hi there 👋
-I am a python developer with a Bachelor of Engineering and extensive experience working as a civil engineer. I have recently committed to a career change into software engineering where I believe my strong skills in project management, mathematics, statistics and problem solving will be directly transferable. 
 
-I completed programming courses at university and have always been interested in software development and coding as a hobby. I have often experimented with creating websites and have created many small python programs for personal use and to help automate work tasks. I have recently completed a Python development course and am interested in moving into a full time role as a developer. I am particularly interested in Python development but have a fundamental understanding of C and JAVA and am eager and willing to upskill where necessary.
+**`SOFTWARE DEVELOPER`**
 
-I am passionate about writing code and am excited to continue learning while working. 
+I am a software developer with a Bachelor of Engineering and extensive experience working as a civil engineer. I have recently committed to a career change into software engineering where I believe my strong skills in project management, mathematics, statistics and problem solving will be directly transferable. 
+
+I am currently working towards a Graduate Certificate in Information Technology and have always been interested in software development and coding as a hobby. I have often experimented with creating websites and have created many small python programs for personal use and to help automate work tasks. I have completed learnings in python, django and SQLServer; and am continuing to develop these areas and expand with MongoDB, Express, React, Node.js.
+
+I am passionate about writing code and am interested in moving into a full time role as a developer.  
 
 ## 📫 How to reach me:
 - [Email](mailto:jared.cavalli@gmail.com)

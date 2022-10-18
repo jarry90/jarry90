@@ -23,7 +23,7 @@ I am passionate about writing code and am interested in moving into a full time 
 <img width="80px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
 
 #### Working on ####
-</br>MongoDB, Express, React, Node.js, RPA-Robocorp, AWS, Azure.
+MongoDB, Express, React, Node.js, RPA-Robocorp, AWS, Azure.
 
 
 ## 🔭 I’m currently working on

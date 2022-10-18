@@ -2,13 +2,14 @@
 
 **`🦖 SOFTWARE DEVELOPER`**
 
+📫 [Personal website](jarry.dev) ⢷ [Email](mailto:jared.cavalli@gmail.com) ⢷ [Twitter](https://twitter.com/Jared_Cavalli) ⢷ [Linkedin](https://www.quora.com/profile/Jared-Cavalli) ⢷ [Codewars](https://www.codewars.com/users/jarry90)
+
 I am a software developer with a Bachelor of Engineering and extensive experience working as a civil engineer. I have recently committed to a career change into software engineering where I believe my strong skills in project management, mathematics, statistics and problem solving will be directly transferable. 
 
 I am currently working towards a Graduate Certificate in Information Technology and have always been interested in software development and coding as a hobby. I have often experimented with creating websites and have created many small python programs for personal use and to help automate work tasks. I have completed learnings in python, django and SQLServer; and am continuing to develop these areas and expand with MongoDB, Express, React, Node.js.
 
 I am passionate about writing code and am interested in moving into a full time role as a developer.  
 
----
 
 ## ⚒️ Languages and Tools
 
@@ -21,12 +22,8 @@ I am passionate about writing code and am interested in moving into a full time 
 <img align="left" width="80px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img width="80px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
 
-### Working on
+#### Working on ####
 </br>MongoDB, Express, React, Node.js, RPA-Robocorp, AWS, Azure.
-
-
-## 📫 How to reach me:
-[Email](mailto:jared.cavalli@gmail.com) ⢷ [Twitter](https://twitter.com/Jared_Cavalli) ⢷ [Linkedin](https://www.quora.com/profile/Jared-Cavalli) ⢷ [Codewars](https://www.codewars.com/users/jarry90)
 
 
 ## 🔭 I’m currently working on
@@ -34,7 +31,7 @@ I am passionate about writing code and am interested in moving into a full time 
 
 
 ## 👓 Education and training
-### I’m currently studying
+#### I’m currently studying ####
 - Graduate Certificate in Information Technology - University on Newcastle, 2023 (expected)
 - CS50’s Web Programming with Python and JavaScript - Harvard OpenCourseWare, 2022 (expected)
 
@@ -42,7 +39,7 @@ I am passionate about writing code and am interested in moving into a full time 
 - Bachelor of Engineering - University of Queensland, 2014
 
 #### Other ####
-- Robocorp Certified Developer Level I & II - Robocorp, 2022
+- Robocorp RPA Automation Developer Level I & II - Robocorp, 2022
 - Project Management Fundamentals (PM2) - Brisbane City Council, 2021
 
 

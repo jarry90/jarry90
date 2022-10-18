@@ -20,6 +20,9 @@ I am passionate about writing code and am interested in moving into a full time 
 <img align="left" width="80px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img width="80px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
 
+#### 🦖 Working on
+Python, bs4, requests, selenium, django, RPA-Robocorp, APIs, Git & GitHub, HTML, CSS, AWS, Azure, Project Management, Customer Service, Critical Thinking, SQL Queries, Adv Mathematics, Probability, Statistics.
+
 
 ## 📫 How to reach me:
 - [Email](mailto:jared.cavalli@gmail.com)
@@ -27,8 +30,6 @@ I am passionate about writing code and am interested in moving into a full time 
 - [Linkedin](https://www.quora.com/profile/Jared-Cavalli)
 - [Codewars](https://www.codewars.com/users/jarry90)
 
-## 🦖 Skills
-Python, bs4, requests, selenium, django, RPA-Robocorp, APIs, Git & GitHub, HTML, CSS, AWS, Azure, Project Management, Customer Service, Critical Thinking, SQL Queries, Adv Mathematics, Probability, Statistics.
 
 ## 🔭 I’m currently working on
 Improving my skills as a programmer. Focussing on taking courses and learning new things.

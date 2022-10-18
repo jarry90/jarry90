@@ -21,7 +21,7 @@ I am passionate about writing code and am interested in moving into a full time 
 <img align="left" width="80px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img width="80px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
 
-Working on;
+### Working on
 </br>MongoDB, Express, React, Node.js, RPA-Robocorp, AWS, Azure.
 
 
@@ -32,26 +32,19 @@ Working on;
 ## 🔭 I’m currently working on
 [Personal website](jarry.dev) ⢷ YouTube Channel ⢷ Yoga Video Webapp
 
-## Education and training
-#### University ####
+
+## 👓 Education and training
+### I’m currently studying
 - Graduate Certificate in Information Technology - University on Newcastle, 2023 (expected)
 - CS50’s Web Programming with Python and JavaScript - Harvard OpenCourseWare, 2022 (expected)
+
+#### University ####
 - Bachelor of Engineering - University of Queensland, 2014
 
 #### Other ####
-- Python Developer: Zero to Mastery - Zero To Mastery Academy, 2022
-- Robocorp Level I certification - Robocorp, 2022
-- Robocorp Level I certification - Robocorp, 2022
+- Robocorp Certified Developer Level I & II - Robocorp, 2022
 - Project Management Fundamentals (PM2) - Brisbane City Council, 2021
 
-## 👓 I’m currently studying
-- CS50’s Web Programming with Python and JavaScript
-- Graduate Certificate in Information Technology
-
-#### Next up ####
-- Python Django - Complete Course
-- Django with React | An Ecommerce Website
-- React JS Notes App & Crash Course
 
 ## 👯 I’m looking to
 Add value to some open source projects. 

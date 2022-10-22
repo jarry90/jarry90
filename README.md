@@ -11,7 +11,7 @@ I am currently working towards a Graduate Certificate in Information Technology 
 I am passionate about writing code and am interested in moving into a full time role as a developer.  
 
 
-## ⚒️ Languages and Tools
+## ⚒️ Coding in...
 
 <img align="left" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />

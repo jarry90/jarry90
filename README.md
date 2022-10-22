@@ -40,9 +40,6 @@ MongoDB, Express, React, Node.js, Azure.
 - Project Management Fundamentals (PM2) - Brisbane City Council, 2021
 
 
-## 👯 I’m looking to
-Add value to some open source projects. 
-
 ## ⚡ Projects
 #### [Photo Gallery](https://github.com/jarry90/djangophotoapp) - [Live Demo](http://jarry90.pythonanywhere.com) ####
 **`Tech: Django, AWS S3 Bucket, PythonAnywhere`**

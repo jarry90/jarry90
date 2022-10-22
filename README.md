@@ -45,7 +45,7 @@ Add value to some open source projects.
 
 ## ⚡ Projects
 #### [Photo Gallery](https://github.com/jarry90/djangophotoapp) - [Live Demo](http://jarry90.pythonanywhere.com) ####
-Tech: Django, AWS S3 Bucket, PythonAnywhere
+**`Tech: Django, AWS S3 Bucket, PythonAnywhere`**
 
 A simple photo sharing app that allows users to upload and display images. Images can be viewed with their description and the gallery can be filtered by category.
 

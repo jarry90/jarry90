@@ -2,7 +2,7 @@
 
 **`🦖 SOFTWARE DEVELOPER`**
 
-📫 [jarry.dev](https://jarry.dev) ⢷ [Email](mailto:jared.cavalli@gmail.com) ⢷ [Twitter](https://twitter.com/Jared_Cavalli) ⢷ [Linkedin](https://www.linkedin.com/in/jaredcavalli/) ⢷ [Codewars](https://www.codewars.com/users/jarry90)
+📫 [jarry.dev](https://jarry.dev) ⢷ [Email](mailto:hi@jarry.dev) ⢷ [Twitter](https://twitter.com/Jared_Cavalli) ⢷ [Linkedin](https://www.linkedin.com/in/jaredcavalli/) ⢷ [Codewars](https://www.codewars.com/users/jarry90)
 
 I am a software developer with a Bachelor of Engineering and extensive experience working as a civil engineer. I have recently committed to a career change into software engineering where I believe my strong skills in project management, mathematics, statistics and problem solving will be directly transferable.
 

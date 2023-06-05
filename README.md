@@ -2,13 +2,11 @@
 
 **`🦖 SOFTWARE DEVELOPER`**
 
-📫 [jarry.dev](https://jarry.dev) ⢷ [Email](mailto:hi@jarry.dev) ⢷ [Twitter](https://twitter.com/Jared_Cavalli) ⢷ [Linkedin](https://www.linkedin.com/in/jaredcavalli/) ⢷ [Codewars](https://www.codewars.com/users/jarry90)
+📫 [jarry.dev](https://jarry.dev) ⢷ [Email](mailto:hi@jarry.dev) ⢷ [Twitter](https://twitter.com/Jared_Cavalli) ⢷ [Linkedin](https://www.linkedin.com/in/jaredcavalli/)
 
-I am a software developer with a Bachelor of Engineering and extensive experience working as a civil engineer. I have recently committed to a career change into software engineering where I believe my strong skills in project management, mathematics, statistics and problem solving will be directly transferable.
+🚧 [readably.co](https://readably.co/)
 
-I am currently working towards a Graduate Certificate in Information Technology and have always been interested in software development and coding as a hobby. I have often experimented with creating websites and have created many small Python programs for personal use and to help automate work tasks. I have completed learnings in Python, Django and SQLServer; and am continuing to develop these areas and expand with MongoDB, Express, React, Node.js.
-
-I am passionate about writing code and am interested in moving into a full time role as a developer.
+I am a software developer with a Graduate Certificate in Information Technology, and a Bachelor of Engineering. I have extensive experience as a civil engineer, but I prefer to code and am interested in moving into a full time role as a developer.
 
 
 ## ⚒️ Coding in...
@@ -24,15 +22,12 @@ I am passionate about writing code and am interested in moving into a full time 
 <img width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
 
 #### Working on ####
-MongoDB, Express, React, Node.js, Azure.
+MongoDB, Express, React, Node.js.
 
 
 ## 👓 Education and training
-#### I’m currently studying ####
-- Graduate Certificate in Information Technology - University on Newcastle, 2023 (expected)
-- CS50’s Web Programming with Python and JavaScript - Harvard OpenCourseWare, 2022 (expected)
-
 #### University ####
+- Graduate Certificate in Information Technology (GPA 6.75) - University on Newcastle, 2023
 - Bachelor of Engineering - University of Queensland, 2014
 
 #### Other ####
@@ -41,26 +36,19 @@ MongoDB, Express, React, Node.js, Azure.
 
 
 ## ⚡ Projects
+#### [readably.co](https://readably.co/) ####
+**`Tech: Node.js, JS, fly.io`**
+
+A site built to remove clutter and distrations from any article, blog or website. 
+
+Simply add "readably.co/" before any article's website link in your web browser, and experience clutter-free reading.
+
 #### [Photo Gallery](https://github.com/jarry90/djangophotoapp) - [Live Demo](http://jarry90.pythonanywhere.com) ####
 **`Tech: Django, AWS S3 Bucket, PythonAnywhere`**
 
 A simple photo sharing app that allows users to upload and display images. Images can be viewed with their description and the gallery can be filtered by category.
 
 Images are hosted within an AWS S3 Bucket and the app is hosted on PythonAnywere.
-
-#### Python ####
-- [Image Compressor](https://github.com/jarry90/Image-Compressor) - A simple app that takes the filepath of an image from the command line and outputs a compressed version at the same file location. 
-- [Email Sender](https://github.com/jarry90/Projects-Python-Developer-Zero-to-Mastery) - Completed as part of the Python Zero to Mastery Course. A simple program that sends an email from your gmail account. 
-- [Password Security Checker](https://github.com/jarry90/Projects-Python-Developer-Zero-to-Mastery) - Completed as part of the Python Zero to Mastery Course. An app that checks if a password has been hacked using the haveibeenpwned.com API. 
-- [Hackernews Scraper](https://github.com/jarry90/Projects-Python-Developer-Zero-to-Mastery) - Completed as part of the Python Zero to Mastery Course. An app that uses requests and beautiful soup 4 to scrape hacker news and output a list of the top posts.
-
-#### JavaScript ####
-- [JavaScript Flight Widget](https://github.com/jarry90/JavaScript-Flight-Widget)
-
-#### Robocorp ####
-- [Robocorp - RPA Certification Level I](https://github.com/jarry90/RoboCorp-RPA-certification-level-I-Beginners-course) - Completed project for Robocorp - RPA certification level I.
-- [Robocorp - RPA Certification Level II](https://github.com/jarry90/RoboCorp-RPA-certification-level-II-Build-a-robot) - Completed project for Robocorp - RPA certification level II.
-- [RPA Challenge](https://github.com/jarry90/RPA-Challenge-Robocorp) - A robot that successfully completes the RPAchallenge.com challenge using the Robocorp framework. 
 
 ## 🐱 Blogs
 

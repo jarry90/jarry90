@@ -10,8 +10,9 @@ BEng 2014
 
 🚧 [NightNight.app](https://nightnight.app/) ⢷ [readably.co](https://readably.co/)
 
-I am a software developer with a Graduate Certificate in Information Technology, and a Bachelor of Engineering. I have extensive experience as a civil engineer, but I prefer to code and am interested in moving into a full time role as a developer.
+I am a software developer with a Graduate Certificate in Information Technology (GPA 6.5/7) and a Bachelor of Engineering (Civil). I have 10+ years of experience working as a project manager / civil engineer and have recently committed to a career change into software engineering. I have always been interested in software development and coding as a hobby and I believe my strong skills in project management, mathematics, statistics and problem solving will be directly transferable.</p>
 
+I am passionate about writing code and am interested in moving into a full time role as a developer.
 
 ## 🧙 Coding in...
 

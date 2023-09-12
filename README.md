@@ -3,6 +3,7 @@
 **`🦖 SOFTWARE DEVELOPER`**
 
 GradCertIT 2023 (GPA 6.75/7)
+
 BEng 2014
 
 📫 [jarry.dev](https://jarry.dev) ⢷ [Email](mailto:hi@jarry.dev) ⢷ [X](https://x.com/Jared_Cavalli) ⢷ [Linkedin](https://www.linkedin.com/in/jaredcavalli/) ⢷ [YouTube](https://www.youtube.com/channel/UCWhtyMHmuW3AvvTipfPKPAQ)

@@ -20,8 +20,7 @@ I am passionate about writing code and am interested in moving into a full time 
 Python, Java, Django, PostgreSQL, SQLServer, Git, GitHub, HTML, CSS, JavaScript.
 
 #### Experience using... ####
-MongoDB, Express, React, Node.js.
-
+AWS, Express, Node.js.
 
 ## 🛸 Education and training
 - Graduate Certificate in Information Technology (GPA 6.75) - University on Newcastle, 2023

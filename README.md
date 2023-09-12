@@ -9,39 +9,36 @@
 I am a software developer with a Graduate Certificate in Information Technology, and a Bachelor of Engineering. I have extensive experience as a civil engineer, but I prefer to code and am interested in moving into a full time role as a developer.
 
 
-## ⚒️ Coding in...
+## 🧙 Coding in...
 
-<img align="left" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-<img align="left" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-<img align="left" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
-<img align="left" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+#### Competent in... ####
+Python, Java, Django, PostgreSQL, SQLServer, Git, GitHub, HTML, CSS, JavaScript.
 
-#### Working on ####
+#### Experience using... ####
 MongoDB, Express, React, Node.js.
 
 
-## 👓 Education and training
-#### University ####
+## 🛸 Education and training
 - Graduate Certificate in Information Technology (GPA 6.75) - University on Newcastle, 2023
 - Bachelor of Engineering - University of Queensland, 2014
-
-#### Other ####
 - Robocorp RPA Automation Developer Level I & II - Robocorp, 2022
 - Project Management Fundamentals (PM2) - Brisbane City Council, 2021
 
 
 ## ⚡ Projects
 #### [readably.co](https://readably.co/) ####
+**`Tech: Django, OpenAI, PostgreSQL, AWS RDS, Fly.io, GitHub`**
+
+Currently in Beta. The site uses the OpenAI API to generate children's stories for the user. Data is stored in a PostgreSQL database which is hosted by AWS RDS, and the server is hosted on Fly.io. Django provides the backend. CI/CD pipeline provided through GitHub Actions.
+
+#### [NightNight.app](https://nightnight.app/) ####
 **`Tech: Node.js, JS, fly.io`**
 
 A site built to remove clutter and distrations from any article, blog or website. 
 
 Simply add "readably.co/" before any article's website link in your web browser, and experience clutter-free reading.
+
+The site uses Readability.js to scrape website content from a given website and displays the content in a distraction free and customisable environment. Server is hosted on Fly.io. Django provides the backend. CI/CD pipeline provided through GitHub Actions.
 
 #### [Photo Gallery](https://github.com/jarry90/djangophotoapp) - [Live Demo](http://jarry90.pythonanywhere.com) ####
 **`Tech: Django, AWS S3 Bucket, PythonAnywhere`**

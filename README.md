@@ -23,7 +23,7 @@ Python, Java, Django, PostgreSQL, SQLServer, Git, GitHub, HTML, CSS, JavaScript.
 AWS, Express, Node.js.
 
 ## 🛸 Education and training
-- Graduate Certificate in Information Technology (GPA 6.75) - University on Newcastle, 2023
+- Graduate Certificate in Information Technology (GPA 6.75) - University of Newcastle, 2023
 - Bachelor of Engineering - University of Queensland, 2014
 - Robocorp RPA Automation Developer Level I & II - Robocorp, 2022
 - Project Management Fundamentals (PM2) - Brisbane City Council, 2021

@@ -1,10 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I'm Jared
 
 **`🦖 SOFTWARE DEVELOPER`**
 
-📫 [jarry.dev](https://jarry.dev) ⢷ [Email](mailto:hi@jarry.dev) ⢷ [Twitter](https://twitter.com/Jared_Cavalli) ⢷ [Linkedin](https://www.linkedin.com/in/jaredcavalli/)
+GradCertIT 2023 (GPA 6.75/7)
+BEng 2014
 
-🚧 [readably.co](https://readably.co/)
+📫 [jarry.dev](https://jarry.dev) ⢷ [Email](mailto:hi@jarry.dev) ⢷ [X](https://x.com/Jared_Cavalli) ⢷ [Linkedin](https://www.linkedin.com/in/jaredcavalli/) ⢷ [YouTube](https://www.youtube.com/channel/UCWhtyMHmuW3AvvTipfPKPAQ)
+
+🚧 [NightNight.app](https://nightnight.app/) ⢷ [readably.co](https://readably.co/)
 
 I am a software developer with a Graduate Certificate in Information Technology, and a Bachelor of Engineering. I have extensive experience as a civil engineer, but I prefer to code and am interested in moving into a full time role as a developer.
 
@@ -26,12 +29,12 @@ MongoDB, Express, React, Node.js.
 
 
 ## ⚡ Projects
-#### [readably.co](https://readably.co/) ####
+#### [NightNight.app](https://nightnight.app/) ####
 **`Tech: Django, OpenAI, PostgreSQL, AWS RDS, Fly.io, GitHub`**
 
 Currently in Beta. The site uses the OpenAI API to generate children's stories for the user. Data is stored in a PostgreSQL database which is hosted by AWS RDS, and the server is hosted on Fly.io. Django provides the backend. CI/CD pipeline provided through GitHub Actions.
 
-#### [NightNight.app](https://nightnight.app/) ####
+#### [readably.co](https://readably.co/) ####
 **`Tech: Node.js, JS, fly.io`**
 
 A site built to remove clutter and distrations from any article, blog or website. 

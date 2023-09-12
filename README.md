@@ -14,7 +14,7 @@ I am a software developer with a Graduate Certificate in Information Technology 
 
 I am passionate about writing code and am interested in moving into a full time role as a developer.
 
-## 🧙 Coding in...
+## 🧙 Teck
 
 #### Competent in... ####
 Python, Java, Django, PostgreSQL, SQLServer, Git, GitHub, HTML, CSS, JavaScript.
